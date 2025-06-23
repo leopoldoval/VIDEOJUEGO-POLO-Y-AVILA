@@ -113,3 +113,5 @@ shape = SubResource("RectangleShape2D_onrkg")
 libraries = {
 &"": SubResource("AnimationLibrary_dw050")
 }
+
+[node name="Camera2D" type="Camera2D" parent="."]
