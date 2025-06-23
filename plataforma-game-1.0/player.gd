@@ -2,7 +2,7 @@ extends CharacterBody2D
 
 var speed := 120
 var direccion := 0.0
-var jump:= 250
+var jump:= 280
 const gravity := 9
 @onready var anim := $AnimationPlayer
 @onready var sprite := $Sprite2D
